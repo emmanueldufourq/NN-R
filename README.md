@@ -5,5 +5,7 @@ Dr. Emmanuel Dufourq
 www.emmanueldufourq.com
 
 African Institute for Mathematical Sciences
+
 Stellenbosch University
+
 2019
