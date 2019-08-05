@@ -5,7 +5,7 @@ Open a link below, then once the page has loaded, click on *File* > *Save a copy
 
 Note that this might require you to sign in with a Google account.
 
-
+Additional links will be posted as the course progresses.
 
 ## Softmax function
 https://drive.google.com/open?id=1eZJnsb2jr5mL4D44TAC57qLM2-eoa8y6
