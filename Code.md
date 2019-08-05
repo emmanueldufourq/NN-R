@@ -1,7 +1,7 @@
 # Links to the code:
 
 Each of these open up in Google Colab. To edit the code and make modifications you can do the following: 
-Open a link below, then once the page has loaded, click on * *File* * > * *Save a copy in drive...* * 
+Open a link below, then once the page has loaded, click on *File* > *Save a copy in drive...*
 
 Note that this might require you to sign in with a Google account.
 
