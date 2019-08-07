@@ -19,3 +19,8 @@ https://colab.research.google.com/drive/1G1p7FLp8dvaybGG8Y7Wae0EYxuyQ05qd
 ## Regression example 2 (Car sales)
 https://colab.research.google.com/drive/1QkpZ_2F4X5sLXpvdRSUElp1-2DeBe2qg
 
+## Classification example 1 (MNIST)
+https://colab.research.google.com/drive/1nUiFd2gxwbfHWMpR3-6C2LHPpoZhU75M
+
+## Classification example 2 (Iris)
+https://colab.research.google.com/drive/10FzlXsDz_fPM3V7rFuFeYcr6tXBcllHm
