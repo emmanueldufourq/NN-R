@@ -6,10 +6,10 @@ The following slides are for the masters course.
 https://drive.google.com/open?id=1oRclOfeuMJf1Jf0_T1tBrtMo2FIPPM6T
 
 ## Intro to convolutional neural networks - Masters Course
-...
+https://drive.google.com/open?id=15VuO3U-Qp6qpvh5Yk2oOw79Rs69Tcumr
 
 ## Intro to embeddings for 1-D convolutional neural networks - Masters Course
-...
+https://drive.google.com/open?id=1DIHF3veaV1eVrlR9nR7YZEm_Su-AT8HV
 
 The following slides are for the short course.
 
@@ -17,7 +17,7 @@ The following slides are for the short course.
 https://drive.google.com/open?id=1IPC_kxt-c8SY_dB_2K14m-S84-8ODHg7
 
 ## Intro to convolutional neural networks - Short Course
-...
+https://drive.google.com/open?id=15VuO3U-Qp6qpvh5Yk2oOw79Rs69Tcumr
 
 ## Intro to embeddings for 1-D convolutional neural networks - Short Course
-...
+https://drive.google.com/open?id=1DIHF3veaV1eVrlR9nR7YZEm_Su-AT8HV
