@@ -24,3 +24,21 @@ https://colab.research.google.com/drive/1rLJUoP95aVw7n8wwh57w7CCCQKrXUStb
 
 ## Classification example 2 (Iris)
 https://colab.research.google.com/drive/10FzlXsDz_fPM3V7rFuFeYcr6tXBcllHm
+
+## Image classification example 1 (Fashion-MNIST)
+https://colab.research.google.com/drive/1t3P4MdkuzgEO66k3IQLoQjmQTtWZwZzU
+
+## Image classification example 2 (MNIST)
+https://colab.research.google.com/drive/1nUiFd2gxwbfHWMpR3-6C2LHPpoZhU75M
+
+## Image classification example 3 (CIFAR10)
+https://colab.research.google.com/drive/1Mp5YUHaPIoE-YIsNJ1OUOHAb9_Oc6K9Q
+
+## Text classifiacation example 1 (IMDB sentiment analysis)
+https://colab.research.google.com/drive/1tdQpKkBARR_kJj0SpvOTtfnd8BQC00VG
+
+## Text classification example 2 (Newsgroups multiclass)
+https://colab.research.google.com/drive/1M5ttNCSy8-tbUC7T_LtA0-8IYWOnQgoG
+
+## Recommendation Enginge (Movie-lens)
+https://colab.research.google.com/drive/1wMP9Zk6RWYit_RKUNCItxyFtYbC9Rrou
